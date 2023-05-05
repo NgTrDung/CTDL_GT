@@ -1,0 +1,15 @@
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\bin\Debug\net6.0\DemoDSLK.exe
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\bin\Debug\net6.0\DemoDSLK.deps.json
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\bin\Debug\net6.0\DemoDSLK.runtimeconfig.json
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\bin\Debug\net6.0\DemoDSLK.dll
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\bin\Debug\net6.0\DemoDSLK.pdb
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.csproj.AssemblyReference.cache
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.GeneratedMSBuildEditorConfig.editorconfig
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.AssemblyInfoInputs.cache
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.AssemblyInfo.cs
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.csproj.CoreCompileInputs.cache
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.dll
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\refint\DemoDSLK.dll
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.pdb
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\DemoDSLK.genruntimeconfig.cache
+F:\CTDL GT Nop\DSLK_SV_CSharp\DemoDSLK\obj\Debug\net6.0\ref\DemoDSLK.dll

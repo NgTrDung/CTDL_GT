@@ -1,0 +1,45 @@
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.exe
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.deps.json
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.runtimeconfig.json
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.dll
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.pdb
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.AssemblyReference.cache
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfoInputs.cache
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfo.cs
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.CoreCompileInputs.cache
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.dll
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\refint\DSSV.dll
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.pdb
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.genruntimeconfig.cache
+F:\Mon CTDL_GT\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\ref\DSSV.dll
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.exe
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.deps.json
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.dll
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.pdb
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.dll
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\refint\DSSV.dll
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.pdb
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\ref\DSSV.dll
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.exe
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.deps.json
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.runtimeconfig.json
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.dll
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\bin\Debug\net6.0\DSSV.pdb
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.AssemblyReference.cache
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.GeneratedMSBuildEditorConfig.editorconfig
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfoInputs.cache
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.AssemblyInfo.cs
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.csproj.CoreCompileInputs.cache
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.dll
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\refint\DSSV.dll
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.pdb
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\DSSV.genruntimeconfig.cache
+F:\CTDL GT Nop\Chương 3_List_Part1\Danh Sach Sinh Vien\DSSV\obj\Debug\net6.0\ref\DSSV.dll
